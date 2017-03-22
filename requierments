@@ -1,0 +1,7 @@
+#Run below command before first use:
+apt-get install pip
+pip install parallel-ssh
+
+#How to use
+- Type 'python' in shell
+- run execfile('app.py')
